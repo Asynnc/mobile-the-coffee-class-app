@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mobile-the-coffee-class",
+    "slug": "mobile-the-coffee-class",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
