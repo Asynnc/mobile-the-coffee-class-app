@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container } from './styles'
 import { Input } from '@components/Input';
+import { Button } from '@components/Button';
 
 
 export function SignIn() {
@@ -21,6 +22,8 @@ export function SignIn() {
         autoCorrect={false}
         autoCapitalize='none'
       />
+
+      <Button title='Acessar' type='secondary' />
     </Container>
   )
 
