@@ -21,11 +21,11 @@ export default {
     SHAPE: '#DCDCDC',
     TITLE: '#FFF',
 
-    GRADIENT: ['#FFA500', '#E03F50'],
+    GRADIENT: ['#FFA500', '#0B5B4B'],
   },
 
   FONTS: {
-    TITLE: 'DMSerifDisplay_400Regular',
+    TITLE: 'Quicksand_700Bold',
     TEXT: 'DMSans_400Regular',
   },
 };
